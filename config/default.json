@@ -1,0 +1,15 @@
+{
+  "log": {
+    "console": {
+      "enabled": "yes",
+      "level": "debug"
+    }
+  },
+  "query": {
+    "hostname": "live-internal.fivem.net",
+    "port": 30110,
+    "game": "DarkPlaces",
+    "protocol": 4,
+    "keywords": "full empty"
+  }
+}
