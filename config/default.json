@@ -6,7 +6,7 @@
     }
   },
   "query": {
-    "hostname": "live-internal.fivem.net",
+    "host": "live-internal.fivem.net",
     "port": 30110,
     "game": "DarkPlaces",
     "protocol": 4,
