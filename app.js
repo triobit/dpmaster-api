@@ -10,6 +10,4 @@ app.use(cors());
 const servers = require('./servers');
 app.use('/', servers);
 
-app.listen(3000, () => {
-	logger.info(`Listening on port ${config.hostname}:${config.port}....`);
-});
+app.listen(3000);
